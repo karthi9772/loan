@@ -1,0 +1,292 @@
+{
+  "pages": [
+    {
+      "slug": "personal-loan",
+      "title": "Personal Loan",
+      "hero": {
+        "image": "/home-loan-header.jpg",
+        "heading": "Personal Loan",
+        "subheading": "Get your personal loan quickly and easily."
+      },
+      "services": {
+        "title": "Our Services",
+        "description": "At the heart of our Personal Loan services is our commitment to providing financial assistance when you need it most. Whether it's an unforeseen medical expense, a long-awaited vacation, or a family celebration, we ensure that you have access to quick and hassle-free funds. With highly competitive interest rates, no hidden charges, and a straightforward application process, you can count on us to deliver the support you need. Our flexible repayment options further empower you to manage your finances with ease and comfort, ensuring peace of mind throughout your loan tenure.",
+        "image": "/services.png"
+      },
+      "whyUs": {
+        "title": "Why Choose Us?",
+        "description": "Our Personal Loan services are built around the idea of convenience and transparency. We offer tailored loans to cover a wide array of personal expenses, such as home renovation, education fees, travel, or even debt consolidation. With minimal documentation requirements, fast processing times, and no collateral needed, our loans are designed to meet your urgent financial needs swiftly. Furthermore, we provide a user-friendly online platform that lets you apply, track, and manage your loan easily from the comfort of your home.",
+        "image": "whyus.png"
+      },
+      "benefits": [
+        {
+          "title": "No Foreclosure Charges",
+          "description": "Zero pre-closure charges if 12 EMIs are paid.",
+          "icon": "land.png"
+        },
+        {
+          "title": "Flexible Tenure",
+          "description": "Choose a repayment tenure that fits your financial plan.",
+          "icon": "hand.png"
+        },
+        {
+          "title": "Minimal Documentation",
+          "description": "Complete your loan process with minimal paperwork.",
+          "icon": "coin.png"
+        },
+        {
+          "title": "Fixed Interest Rates",
+          "description": "Lock in stable and predictable interest rates.",
+          "icon": "home.png"
+        },
+        {
+          "title": "No Collateral Required",
+          "description": "Secure a personal loan without pledging collateral.",
+          "icon": "land.png"
+        }
+      ],
+      "contact": {
+        "formTitle": "Contact Us",
+        "fields": [
+          { "label": "Name", "type": "text", "placeholder": "Enter Your Name" },
+          {
+            "label": "PAN Number",
+            "type": "tel",
+            "placeholder": "Enter Your PAN Number"
+          },
+          {
+            "label": "Email",
+            "type": "email",
+            "placeholder": "Enter Your Email"
+          },
+          {
+            "label": "Phone",
+            "type": "tel",
+            "placeholder": "Enter Your Phone Number"
+          },
+          {
+            "label": "Password",
+            "type": "tel",
+            "placeholder": "Enter Your Password"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "business-loan",
+      "title": "Business Loan",
+      "hero": {
+        "image": "/home-loan-header.jpg",
+        "heading": "Business Loan",
+        "subheading": "Grow your business with easy access to financing."
+      },
+      "services": {
+        "title": "Our Services",
+        "description": "Our Business Loan services are crafted to provide comprehensive support to small, medium, and large enterprises. Whether you're looking to fund a new project, expand into new markets, or manage day-to-day operational costs, our loan options can be customized to your specific needs. We offer working capital loans, equipment financing, and expansion funding, all with flexible repayment options that align with your business cycle. Our fast application process, combined with dedicated customer support, ensures that you get the financing you need when you need it.",
+        "image": "services.png"
+      },
+      "whyUs": {
+        "title": "Why Choose Us?",
+        "description": "In the ever-evolving world of business, access to timely financing can be the difference between success and stagnation. We understand the unique needs of businesses and are here to support your growth with quick approvals and flexible repayment terms tailored to your cash flow. Our Business Loan services are designed to be straightforward, with clear terms, competitive interest rates, and no hidden fees, ensuring you can focus on what truly matters—scaling your business. Whether you need to purchase equipment, expand operations, or simply maintain working capital, we’re here to help you thrive.",
+        "image": "whyus.png"
+      },
+      "benefits": [
+        {
+          "title": "No Foreclosure Charges",
+          "description": "Zero pre-closure charges if 12 EMIs are paid.",
+          "icon": "land.png"
+        },
+        {
+          "title": "Flexible Tenure",
+          "description": "Choose a repayment tenure that fits your financial plan.",
+          "icon": "hand.png"
+        },
+        {
+          "title": "Minimal Documentation",
+          "description": "Complete your loan process with minimal paperwork.",
+          "icon": "coin.png"
+        },
+        {
+          "title": "Fixed Interest Rates",
+          "description": "Lock in stable and predictable interest rates.",
+          "icon": "home.png"
+        },
+        {
+          "title": "No Collateral Required",
+          "description": "Secure a personal loan without pledging collateral.",
+          "icon": "land.png"
+        }
+      ],
+      "contact": {
+        "formTitle": "Contact Us",
+        "fields": [
+          { "label": "Name", "type": "text", "placeholder": "Enter Your Name" },
+          {
+            "label": "PAN Number",
+            "type": "tel",
+            "placeholder": "Enter Your PAN Number"
+          },
+          {
+            "label": "Email",
+            "type": "email",
+            "placeholder": "Enter Your Email"
+          },
+          {
+            "label": "Phone",
+            "type": "tel",
+            "placeholder": "Enter Your Phone Number"
+          },
+          {
+            "label": "Password",
+            "type": "tel",
+            "placeholder": "Enter Your Password"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "home-loan",
+      "title": "Home Loan",
+      "hero": {
+        "image": "/home-loan-header.jpg",
+        "heading": "Home Loan",
+        "subheading": "Achieve your dream home with our easy financing options."
+      },
+      "services": {
+        "title": "Our Services",
+        "description": "Our Home Loan services are designed to cater to a wide range of home financing needs. Whether you're a first-time homebuyer, looking to refinance an existing loan, or planning a renovation, we offer customized loan options with flexible repayment plans. With fast approvals, expert guidance, and personalized service, we make sure you get the right financial solution tailored to your housing goals. From helping you choose the right loan amount to assisting with documentation and legal formalities, we provide end-to-end support for a seamless home financing experience.",
+        "image": "services.png"
+      },
+      "whyUs": {
+        "title": "Why Choose Us?",
+        "description": "Owning a home is one of life’s greatest milestones, and we are here to help you achieve it with ease. We offer highly competitive home loan interest rates and flexible tenure options that make purchasing or refinancing your home more affordable than ever. Our team of experts works closely with you to guide you through every step of the process—from selecting the right loan to navigating the documentation—ensuring that your homeownership journey is as smooth and stress-free as possible. We prioritize transparency and customer satisfaction, so there are no surprises, just results.",
+        "image": "whyus.png"
+      },
+      "benefits": [
+        {
+          "title": "No Foreclosure Charges",
+          "description": "Zero pre-closure charges if 12 EMIs are paid.",
+          "icon": "land.png"
+        },
+        {
+          "title": "Flexible Tenure",
+          "description": "Choose a repayment tenure that fits your financial plan.",
+          "icon": "hand.png"
+        },
+        {
+          "title": "Minimal Documentation",
+          "description": "Complete your loan process with minimal paperwork.",
+          "icon": "coin.png"
+        },
+        {
+          "title": "Fixed Interest Rates",
+          "description": "Lock in stable and predictable interest rates.",
+          "icon": "home.png"
+        },
+        {
+          "title": "No Collateral Required",
+          "description": "Secure a personal loan without pledging collateral.",
+          "icon": "land.png"
+        }
+      ],
+      "contact": {
+        "formTitle": "Contact Us",
+        "fields": [
+          { "label": "Name", "type": "text", "placeholder": "Enter Your Name" },
+          {
+            "label": "PAN Number",
+            "type": "tel",
+            "placeholder": "Enter Your PAN Number"
+          },
+          {
+            "label": "Email",
+            "type": "email",
+            "placeholder": "Enter Your Email"
+          },
+          {
+            "label": "Phone",
+            "type": "tel",
+            "placeholder": "Enter Your Phone Number"
+          },
+          {
+            "label": "Password",
+            "type": "tel",
+            "placeholder": "Enter Your Password"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "mortgage-loan",
+      "title": "Mortgage Loan",
+      "hero": {
+       "image": "/home-loan-header.jpg",
+        "heading": "Mortgage Loan",
+        "subheading": "Secure your financial future with our mortgage loan services."
+      },
+      "services": {
+        "title": "Our Services",
+        "description": "Our Mortgage Loan services are designed for individuals or businesses that need quick access to substantial funds while leveraging their real estate assets. Whether you're looking to consolidate debt, finance a business expansion, or cover personal expenses, our mortgage loans offer competitive rates and easy repayment options. We provide fast processing, expert consultation, and flexible terms, allowing you to make the most of your property without the burden of hidden charges or overly complex paperwork. Our team ensures a transparent, customer-focused experience from start to finish, helping you meet your financial goals efficiently.",
+        "image": "services.png"
+      },
+      "whyUs": {
+        "title": "Why Choose Us?",
+        "description": "Our Mortgage Loans provide a powerful solution for individuals and businesses looking to leverage the value of their property without losing ownership. We offer transparent, low-interest loans with flexible repayment terms, ensuring that you can use the funds for personal or professional needs while keeping your assets secure. Our streamlined approval process allows you to quickly access funds with minimal hassle, and our dedicated team of loan experts is here to guide you through every step, ensuring a smooth and stress-free experience.",
+        "image": "whyus.png"
+      },
+      "benefits": [
+        {
+          "title": "No Foreclosure Charges",
+          "description": "Zero pre-closure charges if 12 EMIs are paid.",
+          "icon": "land.png"
+        },
+        {
+          "title": "Flexible Tenure",
+          "description": "Choose a repayment tenure that fits your financial plan.",
+          "icon": "hand.png"
+        },
+        {
+          "title": "Minimal Documentation",
+          "description": "Complete your loan process with minimal paperwork.",
+          "icon": "coin.png"
+        },
+        {
+          "title": "Fixed Interest Rates",
+          "description": "Lock in stable and predictable interest rates.",
+          "icon": "home.png"
+        },
+        {
+          "title": "No Collateral Required",
+          "description": "Secure a personal loan without pledging collateral.",
+          "icon": "land.png"
+        }
+      ],
+      "contact": {
+        "formTitle": "Contact Us",
+        "fields": [
+          { "label": "Name", "type": "text", "placeholder": "Enter Your Name" },
+          {
+            "label": "PAN Number",
+            "type": "tel",
+            "placeholder": "Enter Your PAN Number"
+          },
+          {
+            "label": "Email",
+            "type": "email",
+            "placeholder": "Enter Your Email"
+          },
+          {
+            "label": "Phone",
+            "type": "tel",
+            "placeholder": "Enter Your Phone Number"
+          },
+          {
+            "label": "Password",
+            "type": "tel",
+            "placeholder": "Enter Your Password"
+          }
+        ]
+      }
+    }
+  ]
+}
